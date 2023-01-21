@@ -1,0 +1,5 @@
+THIS WEBSITE IS NOT MOBILE COMPATIBLE.
+
+Creator: MTX666
+Version: 1.0
+Creation year: 2023
